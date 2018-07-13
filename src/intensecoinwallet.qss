@@ -13,10 +13,10 @@ QTextEdit {
 
 QLineEdit, QDoubleSpinBox, QSpinBox, QComboBox, QPushButton, QDateTimeEdit, QRadioButton, QCheckBox {
   font-size: %fontSizeNormal%;
-  border-radius: 2px;
+  border-radius: 3px;
   min-height: 30px;
   max-height: 30px;
-  border: 1px solid %borderColorDark%;
+  border: 2px solid %borderColorDark%;
 }
 
 QRadioButton, QCheckBox {
