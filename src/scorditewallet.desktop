@@ -6,5 +6,5 @@ Exec=Scordite %U
 Terminal=false
 Type=Application
 Icon=intensecoin
-MimeType=x-scheme-handler/intensecoin;
+MimeType=x-scheme-handler/scordite;
 Categories=Office;Finance;
